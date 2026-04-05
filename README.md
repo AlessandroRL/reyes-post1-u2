@@ -33,4 +33,4 @@ mvn exec:java -Dexec.mainClass="com.patrones.u2.Main"
 
 5. Captura de la Salida (Demo)
 
-![Captura de pantalla de la ejecución](../../../../../assets/resultado.png)
+![Captura de pantalla de la ejecución](assets/resultado.png)
